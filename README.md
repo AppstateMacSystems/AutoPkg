@@ -2,5 +2,5 @@
 Autopkg recipes repo
 
 included recipes:
-  FireFoxESR
+  FireFoxESR,
   FireFox
