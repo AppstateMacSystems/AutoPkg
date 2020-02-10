@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads latest FireFox disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.evangardner.pkg.firefox</string>
+    <string>com.github.appstate.pkg.firefox</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>FireFox</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.evangardner.download.firefox</string>
+    <string>com.github.appstate.download.firefox</string>
     <key>Process</key>
     <array>
         <dict>

@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest FireFox disk image.</string>
     <key>Identifier</key>
-    <string>com.github.evangardner.download.firefox</string>
+    <string>com.github.appstate.download.firefox</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>

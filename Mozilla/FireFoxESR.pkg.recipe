@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads latest FireFoxESR disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.evangardner.pkg.firefoxesr</string>
+    <string>com.github.appstate.pkg.firefoxesr</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>FireFoxESR</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.evangardner.download.firefoxesr</string>
+    <string>com.github.appstate.download.firefoxesr</string>
     <key>Process</key>
     <array>
         <dict>
